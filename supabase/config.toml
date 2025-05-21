@@ -1,0 +1,5 @@
+
+project_id = "pysnrirveqitowuendoc"
+
+[functions.match-resume]
+verify_jwt = true
