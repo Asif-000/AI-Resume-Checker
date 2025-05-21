@@ -1,6 +1,8 @@
 # MatchRight
 
-[Live Demo 🚀](https://ai-resume-checker-eight.vercel.app/)
+## Live Demo  
+
+<a href:"https://ai-resume-checker-eight.vercel.app/"></a>
 
 ## 📌 Project Overview
 
@@ -28,8 +30,7 @@
    ```env
    VITE_SUPABASE_URL=your-supabase-url
    VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
-   VITE_OPENAI_API_KEY=your-openai-api-key
-   ```
+   
 
 4. **Run the Development Server**
 
