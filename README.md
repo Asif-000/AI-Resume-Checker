@@ -2,7 +2,7 @@
 
 ## Live Demo  
 
-<a href:"https://ai-resume-checker-eight.vercel.app/"></a>
+https://ai-resume-checker-eight.vercel.app/
 
 ## 📌 Project Overview
 
