@@ -13,7 +13,7 @@ https://ai-resume-checker-eight.vercel.app/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/matchright.git
+   git clone https://github.com/Asif-000/AI-Resume-Checker.git
    cd matchright
    ```
 
