@@ -14,7 +14,7 @@ https://ai-resume-checker-eight.vercel.app/
 
    ```bash
    git clone https://github.com/Asif-000/AI-Resume-Checker.git
-   cd matchright
+   cd AI-Resume-Checker
    ```
 
 2. **Install Dependencies**
